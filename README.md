@@ -1,3 +1,5 @@
+# WIP:: Adding Threat Hunting Capabilities (Maybe?):: Thanks to the OG Author 
+
 # Spider
 
 [![Build Status](https://github.com/madeindjs/spider/actions/workflows/rust.yml/badge.svg)](https://github.com/madeindjs/spider/actions)
